@@ -26,6 +26,10 @@ My email address is of the form jamison.biddle@helsinki.fi.
 
 [Speech synthesis and recognition](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2425-2e2e6de7-49fa-45a6-b6c7-7884782b3c52/LDA-P305), fall 2024
 
+## Curriculum Vitae
+
+[My Resume](https://www.overleaf.com/read/hhbvjpkngzgk#56b0af)
+
 ## Projects
 
 [Command Line Project](https://github.com/Jami-Kate/cmdline-course)
